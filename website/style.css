@@ -1,0 +1,18 @@
+ * {
+     box-sizing: border-box;
+ }
+     html body {
+        margin: 0px;
+        color: blue;
+        box-shadow: inset;
+        text-align: center;
+}
+      img {
+        width: 350px;
+        height: 400px;
+}
+       .ur {
+         width: 0px;
+         height: 0px;
+         background-image: url(http://imge/IMG_20230331_034828.jpg)
+}
